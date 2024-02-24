@@ -1,0 +1,19 @@
+.heading{
+   background-color: brown;
+   width: 100%;
+   height:px160;
+   border: 2px solid black;
+   color: white;
+
+   
+}
+.class1{
+   border: 2px solid black;
+   padding: 15px;
+   margin: 10px;
+
+}
+.class2{
+   font-family: "Roboto";
+   color: brown;
+}
